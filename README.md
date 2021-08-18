@@ -5,14 +5,14 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 #### Power Supply − +5V DC
 #### Quiescent Current − <2mA
 #### Working Current − 15mA
-## Effectual Angle − <15°
-## Ranging Distance − 2cm – 400 cm/1″ – 13ft
-## Resolution − 0.3 cm
-## Measuring Angle − 30 degree
+#### Effectual Angle − <15°
+#### Ranging Distance − 2cm – 400 cm/1″ – 13ft
+#### Resolution − 0.3 cm
+#### Measuring Angle − 30 degree
 <br>
 # Requirements
 
-## Arduino 2.0.0-beta.9
-## Breadboard
-## ULTRASONIC Sensor HC-SR04
+#### Arduino 2.0.0-beta.9
+#### Breadboard
+#### ULTRASONIC Sensor HC-SR04
 
