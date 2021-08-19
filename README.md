@@ -1,8 +1,8 @@
-# Ultrasonic-HC-SR04-Sensor
-The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object just like the bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package from 2 cm to 400 cm or 1” to 13 feet.  The operation is not affected by sunlight or black material, although acoustically, soft materials like cloth can be difficult to detect. It comes complete with ultrasonic transmitter and receiver module.
+<h1 align="center"> Ultrasonic-HC-SR04-Sensor</h1>
+The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object just like the bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package from 2 cm to 400 cm or 1” to 13 feet.  The operation is not affected by sunlight or black material, although acoustically, soft materials like cloth can be difficult to detect. It comes complete with ultrasonic transmitter and receiver module using the Arduino UNO IDE
 
-
-<p align="center"><table style:width="100%" style="border: 1px solid black;"></p>
+## Specifications
+<p align="center"><table style="width:100%; align:center;" style="border: 1px solid black;"></p>
  <tr>
   <td><strong> Technical Specifications<strong></td>
   <td><strong> Requirements</strong></td>
@@ -35,7 +35,7 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
  </td>
 </table>   
 
-# Connections
+## Connections
 
 ### The connections are very simple:
 <ul>
@@ -44,6 +44,7 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
  <li>Trig to pin 9</li>
  <li>Echo to pin 10</li>
 </ul>
-<p align="center"><img src="Anuvab.webp" hieght="500px" Width="1500px"></p>
+<p><img src="Anuvab.webp" hieght="300px" Width="300px"></p>
+
 
 
