@@ -1,8 +1,11 @@
-# Ultrasonic-HC-SR04-Sensor
+
+
+## Ultrasonic HC-SR04 Sensors
+
 The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object just like the bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package from 2 cm to 400 cm or 1” to 13 feet.  The operation is not affected by sunlight or black material, although acoustically, soft materials like cloth can be difficult to detect. It comes complete with ultrasonic transmitter and receiver module using the Arduino UNO IDE
 
-## Specifications
-<p align="center"><table style="width:100%; align:center;" style="border: 1px solid black;"></p>
+## Technical Requirements
+<p align="center"><table style="width:100%; border: 1px solid black;"</p>
  <tr>
   <td><strong> Technical Specifications<strong></td>
   <td><strong> Requirements</strong></td>
@@ -38,18 +41,32 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 ## Connections
 
 ### The connections are very simple:
+<table>
+ <tr>
 <ul>
- <li>VCC to 5V</li>
- <li>GND to GND</li>
- <li>Trig to pin 9</li>
- <li>Echo to pin 10</li>
+ <td><li>VCC to 5V</li></td>
+ <td><li>GND to GND</li></td>
+ <td><li>Trig to pin 9</li></td>
+ <td><li>Echo to pin 10</li></td>
 </ul>
+ </tr>
+ </table>
 <table>
  <tr>
   <td><p><img src="Anuvab.webp" hieght="300px" Width="300px"></p></td>
   <td><p><img src="sed.webp" hieght="300px" Width="300px"></p></td>
+  <td><p><img src="sed23.webp" hieght="300px" Width="300px"></p></td>
+  
+  
+  
  </tr>
 </table>
+
+ ## Schematics
+ ### HC-SRO4 Setup Diagram
+ <img src="sed23.webp" hieght="500px" Width="1500px">
+ 
+ 
 
 
 
