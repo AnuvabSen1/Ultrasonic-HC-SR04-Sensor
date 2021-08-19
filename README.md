@@ -44,9 +44,12 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
  <li>Trig to pin 9</li>
  <li>Echo to pin 10</li>
 </ul>
-<p><img src="Anuvab.webp" hieght="300px" Width="300px"></p>
-<p><img src="Anuvab.webp" hieght="300px" Width="300px"></p>
-
+<table>
+ <tr>
+  <td><p><img src="Anuvab.webp" hieght="300px" Width="300px"></p></td>
+  <td><p><img src="sed.webp" hieght="300px" Width="300px"></p></td>
+ </tr>
+</table>
 
 
 
