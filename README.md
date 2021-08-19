@@ -73,6 +73,9 @@ Now that we have the time, we can use the equation speed = distance/time, but we
  
  
 
-![1](https://user-images.githubusercontent.com/86418113/130113277-ab68488b-921e-48a0-bf0b-ab1789a9c976.jpg)
+
+https://user-images.githubusercontent.com/86418113/130118619-2d8a5473-129d-41dc-8e9e-8b1341c6ea89.mp4
+
+
 
 
