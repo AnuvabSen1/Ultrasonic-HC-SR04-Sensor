@@ -69,6 +69,10 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 Now that we have the time, we can use the equation speed = distance/time, but we will make it time x speed = distance because we have the speed. What speed do we have? The speed of sound, of course! The speed of sound is approximately 340 meters per second, but since the pulseIn() function returns the time in microseconds, we will need to have a speed in microseconds also, which is easy to get. A quick Google search for "speed of sound in centimeters per microsecond" will say that it is .0343 c/μS. You could do the math, but searching it is easier. Anyway, with that information, we can calculate the distance! Just multiply the duration by .0343 and then divide it by 2(Because the sound waves travel to the object AND back). We will store that in the distance variable.
  
  
+ 
+ 
+ 
 
+![1](https://user-images.githubusercontent.com/86418113/130113277-ab68488b-921e-48a0-bf0b-ab1789a9c976.jpg)
 
 
