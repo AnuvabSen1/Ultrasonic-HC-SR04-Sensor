@@ -64,7 +64,7 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 
  ## Schematics
  ### HC-SRO4 Setup Diagram
- <img src="sed12.webp" hieght="500px" Width="1500px">
+ <img src="sed12.png" hieght="500px" Width="1500px">
  
  
 
