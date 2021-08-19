@@ -23,10 +23,10 @@ The HC-SR04 ultrasonic sensor uses SONAR to determine the distance of an object 
 
 ### The connections are very simple:
 <ul>
-#### <li>VCC to 5V</li>
-#### <li>GND to GND</li>
-#### <li>Trig to pin 9</li>
-#### <li>Echo to pin 10</li>
+ <li>VCC to 5V</li>
+ <li>GND to GND</li>
+ <li>Trig to pin 9</li>
+ <li>Echo to pin 10</li>
 </ul>
 <p align="center"><img src="Anuvab.webp" hieght="500px" Width="1500px"></p>
 
