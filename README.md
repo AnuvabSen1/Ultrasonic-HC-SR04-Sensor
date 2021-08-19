@@ -71,10 +71,16 @@ Now that we have the time, we can use the equation speed = distance/time, but we
  
  
  
+
+https://user-images.githubusercontent.com/86418113/130119027-b4446f0f-61a4-4c52-8c8a-a62db999f1e8.mp4
+
+
+ 
+ 
+ 
  
 
 
-https://user-images.githubusercontent.com/86418113/130118619-2d8a5473-129d-41dc-8e9e-8b1341c6ea89.mp4
 
 
 
